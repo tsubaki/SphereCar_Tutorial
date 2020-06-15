@@ -4,6 +4,10 @@
 
 ![image](https://github.com/tsubaki/SphereCar_Tutorial/blob/master/Car/img/19.gif?raw=true)
 
-イメージとしては、以下のような動きになります
+## 動きのイメージ
 
 https://connect.unity.com/mg/other/roll-a-ball-c
+
+## 手順一覧
+
+[玉のモデルや動きを車っぽく変更する](https://github.com/tsubaki/SphereCar_Tutorial/blob/master/Car/Document.md)
