@@ -229,7 +229,7 @@ public class SyncModelTarnsform : MonoBehaviour
 -  Playerを選択し、`UpdateAnimationParameter`を追加します。
 -  `UpdateAnimationParameter > Animator` に、シーン上のCarPrefabを選択します。
 
-```
+```cs
 using UnityEngine;
 
 public class UpdateAnimationParameter : MonoBehaviour
