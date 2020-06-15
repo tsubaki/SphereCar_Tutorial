@@ -1,3 +1,7 @@
+# 手順の動画
+
+https://www.youtube.com/watch?v=Qb8tIwhpkz0&feature=youtu.be
+
 # 車のモデル（任意）をAsset Storeから取得してインポート
 
 今回は以下のモデルを使用します。
